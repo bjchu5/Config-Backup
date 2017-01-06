@@ -28,10 +28,9 @@ progressbar_color = "yellow"
 statusbar_color = "cyan"
 visualizer_color = "red"
 mpd_host = "127.0.0.1"
-mpd_port = "420"
+#mpd_port = "420"
 mouse_list_scroll_whole_page = "yes"
 lines_scrolled = "1"
 #ask_before_clearing_main_playlist = "yes"
 enable_window_title = "yes"
 song_columns_list_format = "(25)[cyan]{a} (40)[]{f} (30)[red]{b} (7f)[green]{l}"cript language="javascript" type="text/javascript" src="libraries/p5.js></script>
-
