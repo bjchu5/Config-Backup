@@ -48,6 +48,9 @@ if dein#check_install()
   call dein#install()
 endif
 
+" Dein Plugin Update Log for dein#update()
+let g:dein#install_log_filename = "deinPluginUpdateLog"
+
 
 "End dein Scripts-------------------------
 
